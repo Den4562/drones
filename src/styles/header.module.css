@@ -1,0 +1,72 @@
+.container{
+   
+    background-color: black;
+    width:100%;
+    height: 75vh;
+    color: white;
+}
+
+.nav_text{
+    justify-content: center;
+    height: 10vh;
+    display:flex;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    position:initial;
+    margin-right: 300px;
+    
+}
+
+.nav_text p{
+    margin-left: 200px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+
+.present_text{
+    font-family: 'Poppins', sans-serif;
+   font-size: 18px;
+   font-weight: 300;
+   line-height: 27px;
+    text-align: center;
+}
+
+.present_text h2{
+    font-size: 45px;
+    font-weight: 500;
+    line-height: 54px;
+    text-align: center;
+}
+
+.present_text_drone{
+color: #969696;
+}
+
+button {
+    margin-top: 15px;
+    padding: 17px 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 0;
+    background-color: #2E4DEC;
+    color: white;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    transition: all 0.5s ease;
+  }
+  
+  button:hover {
+    letter-spacing: 3px;
+    color: hsl(0, 0%, 100%);
+
+  }
+  
+  button:active {
+    letter-spacing: 3px;
+    transform: translateY(1px);
+    transition: 100ms;
+  }
+  
