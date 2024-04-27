@@ -57,3 +57,16 @@
         margin-left: 60px;
       
     }
+
+    .product_open{
+        text-align: center;
+        margin-top: 150px;
+      
+    }
+
+    .product_open p{
+        font-size: 16px;
+        line-height: 32px;
+        font-weight: 300;
+        color: rgba(0, 0, 0, 0.596);
+    }
