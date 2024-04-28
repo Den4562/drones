@@ -7,6 +7,8 @@ import s from "../styles/slider.module.css";
 import imgS1 from "../assets/S1.jfif";
 import imgS2 from "../assets/S2.jfif";
 import imgS3 from "../assets/S3.jfif";
+import Reviews from "../components/Reviews.jsx";
+import Links from "../components/Links.jsx";
 
 const Main = () => {
   return (
@@ -56,7 +58,9 @@ const Main = () => {
             </div>
           </div>
         </Slider>
+        <Reviews />
       </div>
+      <Links />
     </div>
   );
 };

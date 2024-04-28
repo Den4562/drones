@@ -1,0 +1,67 @@
+.container{
+margin-left: 300px;
+display: flex;
+
+margin-top: 400px;
+}
+
+.container .comment_container{
+    margin-left: 80px;
+}
+
+.text1{
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 104px;
+    margin-top: -310px;
+    margin-left: 80px;
+position: absolute;
+}
+
+.comment_container{
+    height: 240px;
+    width: 300px;
+    border: 1px solid #E5E5E5;
+    text-align:left;
+    padding-left: 20px;
+}
+
+.comment_container img{
+    width: 4vw;
+    height: 8vh;
+    border-radius: 50%;
+}
+
+.text_review{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+    color: black
+}
+
+.avatar{
+    display:flex;
+    flex-direction: column; 
+    
+}
+
+.avatar h2{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+
+
+.profile{
+    margin-left: 100px;
+    margin-top: -80px;
+}
+
+.profile p{
+    margin-top: -16px;
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 300;
+color: rgba(0, 0, 0, 0.486);
+}
