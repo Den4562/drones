@@ -11,7 +11,7 @@ const Header = () => {
           position: "absolute",
           fontSize: "55px",
           marginTop: "10px",
-          marginLeft: "120px",
+          marginLeft: "180px",
         }}
       />
       <div className={s.nav_text}>

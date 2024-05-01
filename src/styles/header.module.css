@@ -14,14 +14,22 @@
     font-weight: 500;
     line-height: 27px;
     position:initial;
-    margin-right: 300px;
+    margin-right: 20px;
     
 }
+.nav_text p:hover {
+    background-color: #ccc; 
+   color: black;
+  }
 
 .nav_text p{
-    margin-left: 200px;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    margin-left: 140px;
     padding-top: 10px;
     cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
 
