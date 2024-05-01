@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Den4562/drones/static/css/main.65d4f613.css",
-    "main.js": "/Den4562/drones/static/js/main.c9dbd453.js",
-    "static/media/2D.jfif": "/Den4562/drones/static/media/2D.63bd8a9cf0ff1ea22139.jfif",
-    "static/media/1D.jfif": "/Den4562/drones/static/media/1D.a8c941e7cb0ce18164cd.jfif",
-    "static/media/1.jfif": "/Den4562/drones/static/media/1.f0bd274ca9cd993d5535.jfif",
-    "static/media/S2.jfif": "/Den4562/drones/static/media/S2.f2e15539d756ea525a3d.jfif",
-    "static/media/S1.jfif": "/Den4562/drones/static/media/S1.f9aaa5d5d42fb48151f4.jfif",
-    "static/media/S3.jfif": "/Den4562/drones/static/media/S3.bf78a2459c4743099fa4.jfif",
-    "static/media/2.png": "/Den4562/drones/static/media/2.703079f8da70974c7eb5.png",
-    "static/media/3face.jpg": "/Den4562/drones/static/media/3face.55b8a54f24dbcdab57b2.jpg",
-    "static/media/1face.jpg": "/Den4562/drones/static/media/1face.bfa68906879c833c4db9.jpg",
-    "index.html": "/Den4562/drones/index.html",
-    "main.65d4f613.css.map": "/Den4562/drones/static/css/main.65d4f613.css.map",
-    "main.c9dbd453.js.map": "/Den4562/drones/static/js/main.c9dbd453.js.map"
+    "main.css": "/drones/static/css/main.65d4f613.css",
+    "main.js": "/drones/static/js/main.d4d67046.js",
+    "static/media/2D.jfif": "/drones/static/media/2D.63bd8a9cf0ff1ea22139.jfif",
+    "static/media/1D.jfif": "/drones/static/media/1D.a8c941e7cb0ce18164cd.jfif",
+    "static/media/1.jfif": "/drones/static/media/1.f0bd274ca9cd993d5535.jfif",
+    "static/media/S2.jfif": "/drones/static/media/S2.f2e15539d756ea525a3d.jfif",
+    "static/media/S1.jfif": "/drones/static/media/S1.f9aaa5d5d42fb48151f4.jfif",
+    "static/media/S3.jfif": "/drones/static/media/S3.bf78a2459c4743099fa4.jfif",
+    "static/media/2.png": "/drones/static/media/2.703079f8da70974c7eb5.png",
+    "static/media/3face.jpg": "/drones/static/media/3face.55b8a54f24dbcdab57b2.jpg",
+    "static/media/1face.jpg": "/drones/static/media/1face.bfa68906879c833c4db9.jpg",
+    "index.html": "/drones/index.html",
+    "main.65d4f613.css.map": "/drones/static/css/main.65d4f613.css.map",
+    "main.d4d67046.js.map": "/drones/static/js/main.d4d67046.js.map"
   },
   "entrypoints": [
     "static/css/main.65d4f613.css",
-    "static/js/main.c9dbd453.js"
+    "static/js/main.d4d67046.js"
   ]
 }
